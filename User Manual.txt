@@ -1,0 +1,36 @@
+() -that it is optional
+** - might be needs
+
+Math Notation:
+
+Substitution: f(x), x1
+Derivatives: f(x), (x1)
+Integrate: f(x), (x1), (x2)
+Tangent: f(x), x1
+Limits: f(x), x1, (+ or -)
+Area of two Functions: Top, Bottom, x1, x2
+Volumes of Rotation: Top, Bottom, x1, x2
+Cross Section: f(x), g(x), x1, x2, shape, *height ratio*
+
+Math 2 Notation:
+
+Domain and Range: f(x)
+Asymptotes: f(x)
+Find Max and Min: f(x)
+Find Change in Concavity: f(x)
+Points of Inflection: f(x)
+Average rate of Change: f(x), x1, x2
+Average value of Functions: f(x), x1, x2
+Points of Intersection: f(x), g(x)
+
+Key Inputs:
+
+e: e
+S: (
+s: sin(
+c: cos(
+t: tan(
+p: À
+i: int
+Ctrl + num: Ynum
+a: abs(
