@@ -5,7 +5,7 @@ This was a project I built for my calculus final. We were assigned to make somet
 - Python
 - Tkinter
 
-###How to use
+### How to use
 1. Clone Repository
 2. Run CALCulator.exe
 3. Use user manual for syntax help
